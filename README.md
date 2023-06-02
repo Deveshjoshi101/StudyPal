@@ -35,35 +35,36 @@ The StudyPal project is still in its early stages of development, and there are 
 4. **Adaptive Learning and Recommendation Engine**: Develop an adaptive learning system that tailors the learning experience to individual user needs. Implement a recommendation engine that suggests personalized content, exercises, and learning paths based on user preferences and performance.
 5. **Mobile Application Development**: Extend StudyPal's reach by developing a mobile application for iOS and Android platforms, enabling users to access learning materials and resources on their smartphones and tablets.
 
+```
 ├───docs
-│   ├───installation.md
-│   ├───user-guide.md
-│   └───api-reference.md
+│ ├───installation.md
+│ ├───user-guide.md
+│ └───api-reference.md
 ├───src
-│   ├───components
-│   │   ├───Authentication
-│   │   ├───Dashboard
-│   │   ├───LearningPaths
-│   │   ├───ProgressTracking
-│   │   ├───Simulations
-│   │   ├───SocialFeatures
-│   │   └───UI
-│   ├───services
-│   │   ├───AuthenticationService
-│   │   ├───LearningPathService
-│   │   ├───ProgressTrackingService
-│   │   └───SimulationsService
-│   ├───styles
-│   └───utils
+│ ├───components
+│ │ ├───Authentication
+│ │ ├───Dashboard
+│ │ ├───LearningPaths
+│ │ ├───ProgressTracking
+│ │ ├───Simulations
+│ │ ├───SocialFeatures
+│ │ └───UI
+│ ├───services
+│ │ ├───AuthenticationService
+│ │ ├───LearningPathService
+│ │ ├───ProgressTrackingService
+│ │ └───SimulationsService
+│ ├───styles
+│ └───utils
 ├───public
-│   ├───index.html
-│   └───assets
+│ ├───index.html
+│ └───assets
 ├───tests
-│   ├───unit
-│   └───integration
+│ ├───unit
+│ └───integration
 ├───.gitignore
 ├───package.json
 └───README.md
-
+```
 
 Please refer to the [issues](https://github.com/deveshjoshi101/studypal/issues) section for a complete list of known issues and pending feature requests. Contributions, suggestions, and feedback are highly encouraged and appreciated!
