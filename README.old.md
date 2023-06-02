@@ -25,35 +25,7 @@ To start using StudyPal, follow these steps:
 2. Install dependencies: `npm install`
 3. Build the project: `npm run build`
 4. Start the server: `npm start`
-5. Test the project: `npm test`
 5. Access StudyPal through your web browser or mobile app: `http://localhost:3000`
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
 
 For detailed installation instructions and additional configuration options, refer to the [documentation](docs/installation.md).
 
@@ -100,4 +72,3 @@ The StudyPal project is still in its early stages of development, and there are 
 ```
 
 Please refer to the [issues](https://github.com/deveshjoshi101/studypal/issues) section for a complete list of known issues and pending feature requests. Contributions, suggestions, and feedback are highly encouraged and appreciated!
-
