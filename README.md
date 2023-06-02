@@ -68,35 +68,47 @@ The StudyPal project is still in its early stages of development, and there are 
 5. **Mobile Application Development**: Extend StudyPal's reach by developing a mobile application for iOS and Android platforms, enabling users to access learning materials and resources on their smartphones and tablets.
 
 ```
-├───docs
-│ ├───installation.md
-│ ├───user-guide.md
-│ └───api-reference.md
-├───src
-│ ├───components
-│ │ ├───Authentication
-│ │ ├───Dashboard
-│ │ ├───LearningPaths
-│ │ ├───ProgressTracking
-│ │ ├───Simulations
-│ │ ├───SocialFeatures
-│ │ └───UI
-│ ├───services
-│ │ ├───AuthenticationService
-│ │ ├───LearningPathService
-│ │ ├───ProgressTrackingService
-│ │ └───SimulationsService
-│ ├───styles
-│ └───utils
-├───public
-│ ├───index.html
-│ └───assets
-├───tests
-│ ├───unit
-│ └───integration
-├───.gitignore
-├───package.json
-└───README.md
+studypal/
+├── public/
+│   ├── index.html
+│   └── assets/
+├── src/
+│   ├── components/
+│   │   ├── Authentication/
+│   │   │   ├── Login.js
+│   │   │   └── Register.js
+│   │   ├── Dashboard/
+│   │   │   └── Dashboard.js
+│   │   ├── LearningPaths/
+│   │   │   ├── LearningPaths.js
+│   │   │   └── LearningPath.js
+│   │   ├── ProgressTracking/
+│   │   │   └── ProgressTracking.js
+│   │   ├── Simulations/
+│   │   │   └── Simulations.js
+│   │   ├── SocialFeatures/
+│   │   │   ├── StudyGroups.js
+│   │   │   └── Discussions.js
+│   │   └── UI/
+│   │       ├── Button.js
+│   │       ├── Form.js
+│   │       └── Modal.js
+│   ├── services/
+│   │   ├── AuthenticationService.js
+│   │   ├── LearningPathService.js
+│   │   ├── ProgressTrackingService.js
+│   │   └── SimulationsService.js
+│   ├── styles/
+│   └── utils/
+├── tests/
+│   ├── unit/
+│   └── integration/
+├── .gitignore
+├── LICENSE.md
+├── package-lock.json
+├── package.json
+└── README.md
+
 ```
 
 Please refer to the [issues](https://github.com/deveshjoshi101/studypal/issues) section for a complete list of known issues and pending feature requests. Contributions, suggestions, and feedback are highly encouraged and appreciated!
