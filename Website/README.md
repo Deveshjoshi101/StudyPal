@@ -1,4 +1,4 @@
-# React, Redux, NodeJS, MongoDB starter kit with authentication mechanism (JWT).
+# React, Redux, NodeJS, MongoDB with authentication mechanism (JWT).
 
 Project is separated into:
 - frontend application(React, Redux)
