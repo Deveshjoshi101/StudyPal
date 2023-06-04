@@ -35,6 +35,3 @@ $ ./start.sh
 ### Next steps
 configure application with docker
 
-### Demo application:
-https://guarded-sea-39932.herokuapp.com/#/
-
