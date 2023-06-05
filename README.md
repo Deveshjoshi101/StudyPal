@@ -1,4 +1,7 @@
 # StudyPal - Learn, Collab & Succeed: Embrace the Infinite World of Knowledge
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to StudyPal, an open-source collaborative learning platform where we, as a community, come together to create a global knowledge-sharing revolution. Together, we will encompass the entirety of human knowledge, making learning accessible, collaborative, and a key driver of success. Let's embark on this journey of discovery, growth, and transformation, and have fun while doing it!
 
@@ -51,6 +54,20 @@ Join us on this exciting journey of learning, collaboration, and knowledge shari
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/friendevesh"><img src="https://avatars.githubusercontent.com/u/92687089?v=4?s=100" width="100px;" alt="friendevesh"/><br /><sub><b>friendevesh</b></sub></a><br /><a href="#design-friendevesh" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
