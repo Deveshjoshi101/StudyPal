@@ -48,6 +48,17 @@ By harnessing the collective knowledge and expertise of our contributors, StudyP
 
 Join us on this exciting journey of learning, collaboration, and knowledge sharing!
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## How to Contribute
 
 We welcome contributions from individuals who are passionate about education, knowledge sharing, and revolutionizing the learning experience. To contribute to StudyPal, please follow these guidelines:
