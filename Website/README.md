@@ -1,6 +1,6 @@
 # StudyPal - Interactive Learning Companion
 
-## URL : [StudyPal] <!--(https://deveshjoshi101.github.io/StudyPal)-->
+<!--## URL : [StudyPal] (https://deveshjoshi101.github.io/StudyPal)-->
 
 StudyPal is an innovative open-source project that aims to enhance the learning experience across various subjects, including programming, life sciences, physics, mathematics, and more. This project utilizes advanced technologies, such as artificial intelligence and machine learning, to create a personalized and interactive learning companion that assists users in their educational journey. With StudyPal, users can improve their knowledge, explore new subjects, and stay updated with the latest advancements.
 
