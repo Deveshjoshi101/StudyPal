@@ -30,3 +30,31 @@ The StudyPal project is still in its early stages of development, and there are 
 5. **Mobile Application Development**: Extend StudyPal's reach by developing a mobile application for iOS and Android platforms, enabling users to access learning materials and resources on their smartphones and tablets.
 
 Please refer to the [issues](https://github.com/deveshjoshi101/studypal/issues) section for a complete list of known issues and pending feature requests. Contributions, suggestions, and feedback are highly encouraged and appreciated!
+
+# Website
+
+Welcome to the StudyPal website! This folder contains the codebase for the StudyPal web portal, which is responsible for visualizing projects and providing a collaborative learning environment.
+
+## Getting Started
+
+To set up the StudyPal website locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/studypal.git`
+2. Navigate to the "website" folder: `cd website`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+
+## Contributing
+
+We welcome contributions to enhance the StudyPal website. If you're interested in improving the user interface, adding new features, or fixing bugs, please follow these guidelines:
+
+1. Fork the repository
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Make your changes and test thoroughly
+4. Commit your changes: `git commit -m "Add your commit message here"`
+5. Push to your branch: `git push origin feature-name`
+6. Open a pull request to merge your changes
+
+Let's work together to make the StudyPal website an exceptional platform for collaborative learning and knowledge sharing. If you have any questions or need assistance, please don't hesitate to reach out.
+
+Happy coding!
