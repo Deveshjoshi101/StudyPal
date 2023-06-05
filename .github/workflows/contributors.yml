@@ -3,7 +3,7 @@ name: Docs_workflow - Update Contributors
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   update-contributors:
