@@ -31,5 +31,17 @@ To ensure a smooth collaboration experience, please adhere to the following guid
 4. Provide clear and detailed explanations in your pull request to help reviewers understand your changes.
 5. Be open to feedback and constructive criticism. It's an opportunity to learn and grow.
 
+## Invite and Collaborate
+
+Hey everyone! We're inviting contributors to join our Learn Coding project in the StudyPal repository on GitHub. Together, let's explore the world of coding and collaborate on various aspects like algorithms, frontend, backend, and related projects.
+
+If you're passionate about coding and want to contribute, check out the Learn Coding project in our repository: [Learn Coding Project](https://github.com/Deveshjoshi101/StudyPal/tree/master/Projects/Learn%20Coding)
+
+Feel free to explore the project and its subdirectories to find areas where you can make a valuable contribution. We're excited to have you on board and look forward to your contributions!
+
+Let's learn, collaborate, and make a difference in the world of coding!
+
+
+
 Let's come together, share our knowledge, and make learning coding a rewarding and collaborative experience. Happy coding!
 
