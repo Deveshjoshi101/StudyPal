@@ -39,6 +39,9 @@ Together, we can create a vibrant community that revolutionizes education and em
 
 <!-- CONTRIBUTORS -->
 
+- @Deveshjoshi101
+
+
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
