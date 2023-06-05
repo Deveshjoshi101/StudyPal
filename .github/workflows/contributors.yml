@@ -1,4 +1,4 @@
-name: Update Contributors
+name: Docs_workflow - Update Contributors
 
 on:
   push:
