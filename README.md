@@ -34,6 +34,8 @@ We invite you to join the StudyPal community and be part of this transformative 
 
 Together, we can create a vibrant community that revolutionizes education and empowers learners to thrive in the 21st century. Let's collaborate, share knowledge, and reimagine education for a brighter future.
 
+<!-- CONTRIBUTORS -->
+
 ## Data Representation on the Website
 
 At StudyPal, we believe in making knowledge accessible and engaging. The website leverages the content, projects, and study materials provided by contributors to create a rich learning experience for users. Here's how the data is represented on the website:

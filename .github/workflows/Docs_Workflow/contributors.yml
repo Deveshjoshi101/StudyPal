@@ -1,0 +1,33 @@
+name: Update Contributors
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Generate Contributors List
+        id: contributors
+        run: |
+          contributors=$(curl -s "https://api.github.com/repos/Deveshjoshi101/StudyPal/contributors" | jq -r '.[].login')
+          echo "contributors=($contributors)" > contributors.env
+
+      - name: Update README.md
+        run: |
+          contributors=($(source contributors.env && echo $contributors))
+          contributorsList=$(printf -- "- @%s\n" "${contributors[@]}")
+          sed -i "s|<!-- CONTRIBUTORS -->|<!-- CONTRIBUTORS -->\n\n$contributorsList\n|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Update contributors"
+          git push
