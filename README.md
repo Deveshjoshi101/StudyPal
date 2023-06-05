@@ -39,8 +39,9 @@ Together, we can create a vibrant community that revolutionizes education and em
 
 <!-- CONTRIBUTORS -->
 
-- @Deveshjoshi101
-
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = Deveshjoshi101/StudyPal"/>
+</a>
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
