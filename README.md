@@ -55,7 +55,7 @@ At StudyPal, we believe in making knowledge accessible and engaging. The website
 
 By harnessing the collective knowledge and expertise of our contributors, StudyPal aims to create a dynamic and ever-evolving repository of educational resources. We believe that by sharing and collaborating, we can revolutionize the way education is delivered and empower learners worldwide.
 
-Join us on this exciting journey of learning, collaboration, and knowledge sharing!
+Join us on this exciting journey of collaboration, learning, and knowledge sharing!
 
 ## Contributors
 
