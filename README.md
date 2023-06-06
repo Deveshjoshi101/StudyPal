@@ -1,8 +1,10 @@
 # StudyPal - Learn, Collab & Succeed: Embrace the Infinite World of Knowledge
 
-<center>
-![gitGif](https://github.com/Deveshjoshi101/StudyPal/blob/master/Icons/StudyPal.gif)
-</center>
+<p align="center">
+<img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Icons/StudyPal.gif" alt="StudyPal Logo">
+</p>
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
