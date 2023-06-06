@@ -1,4 +1,4 @@
-# StudyPal - Learn, Collab & Succeed: Embrace the Infinite World of Knowledge
+# StudyPal - Collab, Learn & Succeed: Embrace the Infinite World of Knowledge
 
 <p align="center">
 <img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Icons/StudyPal.gif" alt="StudyPal Logo">
