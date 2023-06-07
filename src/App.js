@@ -1,6 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
 const App = () => {
   return (
     <div className="App">
@@ -15,7 +16,6 @@ const App = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-
           Learn with StudyPal
         </a>
       </header>

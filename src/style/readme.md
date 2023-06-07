@@ -7,5 +7,5 @@ To use flex box add flex-box classes <br>
 To center a item use centre-item class <br>
 To use responsive image class use img-width <br>
 To use responsive logo class use res-logo <br>
-To set the viewport use vh classes <br>
+To set the viewport use vh classes 
 </div>
