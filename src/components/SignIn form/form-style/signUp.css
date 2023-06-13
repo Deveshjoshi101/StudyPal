@@ -1,0 +1,154 @@
+.form__body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100%;
+    background-image: url("src/assets/blob-scene-haikei.svg");
+    object-fit: fill;
+    background-size: cover;
+  
+  }
+  form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .image__form{
+    width: 25rem;
+    max-height: 40rem;
+  }
+  .form__part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+  }
+  .form__main{
+    background-color: #fbae3c;
+    width: 50vh;
+    padding: 3rem;
+    border-radius: 2rem;
+    height: 70vh;
+  }
+  label{
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    /* margin-bottom: 1rem; */
+  }
+  input{
+    width: 18rem;
+    height: 2vh;
+    border: none;
+    border-radius: 2rem;
+    outline: none;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  button{
+    /* padding: 1rem; */
+    width: 15rem;
+    padding: 0.6rem;
+    margin-left: 3rem;
+    /* height: 10vh; */
+    text-align: center;
+  background-color: #18223c;
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 2rem;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  
+  }
+  
+  
+  @media screen and (max-width:751px) {
+    .image__form{
+      width: 18rem;
+  
+    }
+    .form__part{
+      gap: 2rem;
+      flex-direction: column;
+    }
+    .form__main{
+      width: 20rem;
+      padding: 1rem;
+      height: 70vh;
+      border-radius: 2rem;
+  
+      
+    }
+    input{
+      width: 18rem;
+      padding: 1rem;
+    }
+    button{
+      width: 9rem;
+      margin-left: 1rem;
+  
+    }
+  .form__body{
+    height: 150vh;
+  }
+  form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+    label{
+      font-size: 1.3rem;
+  
+  
+    }
+  }
+  
+  @media  (min-width:750px) and (max-width:1000px) {
+    .image__form{
+      width: 18rem;
+  
+    }
+    .form__part{
+      gap: 2rem;
+      flex-direction: column;
+    }
+    .form__main{
+      width: 30rem;
+      padding: 1rem;
+      height: 45vh;
+      border-radius: 2rem;
+  
+      
+    }
+    input{
+      width: 24rem;
+      padding: 1rem;
+    }
+    button{
+      width: 14rem;
+      margin-left: 1rem;
+  
+    }
+  .form__body{
+    height: 100vh;
+  }
+  form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+    label{
+      font-size: 1.3rem;
+  
+  
+    }
+  
+    
+  }
