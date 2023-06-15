@@ -1,4 +1,4 @@
-FRONTEND ENGINEERING TASK
+FRONTEND TASK
 
 Your technical task is to create a simple calendar application from scratch. To reduce the implementation time, please make use of Angular Material and the Angular CDK (this is a MUST, don’t use any other libraries).
 
@@ -33,19 +33,13 @@ Done?
 2.	The project builds and can be served
 3.	Your app can create an appointment
 4.	Your app can move appointments via Drag&Drop
-5.	You have ensured all different Angular patterns such as lazyload, router, forms are in place
+5.	You have ensured all different Angular patterns such as lazyload, router, forms are in place.
 
-
-
-Once the task is completed, compress the files/folder as a .zip (exclude node_modules) file and share it in the results form. In addition, please provide screenshots of your application served locally.
-
-
+Once the task is completed, share it here. In addition, please provide screenshots of your application served locally.
 
 Example views for understanding (Calendar App)
 
  <img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Projects/Applications/calendar-app/Example1.png" alt="Example1">
  <img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Projects/Applications/calendar-app/Example2.png" alt="Example2">
 
-
  
-
