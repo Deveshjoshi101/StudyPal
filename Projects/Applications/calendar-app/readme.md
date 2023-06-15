@@ -43,8 +43,8 @@ Once the task is completed, compress the files/folder as a .zip (exclude node_mo
 
 Example views for understanding (Calendar App)
 
- <img width="1200" src="https://github.com/Deveshjoshi101/Deveshjoshi101/blob/main/deveshjoshi.gif" alt="Devesh Logo">
- <img width="1200" src="https://github.com/Deveshjoshi101/Deveshjoshi101/blob/main/deveshjoshi.gif" alt="Devesh Logo">
+ <img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Projects/Applications/calendar-app/Example1.png" alt="Example1">
+ <img width="1200" src="https://github.com/Deveshjoshi101/StudyPal/blob/master/Projects/Applications/calendar-app/Example2.png" alt="Example2">
 
 
  
